@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Welecome to my repository!
+Welcome to my repository!
 
-I'm a forth year comp sci. student at UofT.
+I'm a fourth-year comp sci. student at UofT.
 
 -----
 
