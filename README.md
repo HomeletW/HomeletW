@@ -2,11 +2,6 @@
 
 Welcome to my repository!
 
-LinkedIn: www.linkedin.com/in/hongcheng-wei
-
-
-Email: hongchengw@cs.toronto.edu
-
 -----
 
 ##### Sep 2024
