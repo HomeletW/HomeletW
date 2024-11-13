@@ -5,7 +5,7 @@ Welcome to my repository!
 -----
 
 ##### Sep 2024
-Pursuing Master of Science in Applied Computing (MScAC) at University of Toronto, enrolled in computer science concentration. Intrest in LSM research and database applications.
+Pursuing Master of Science in Applied Computing (MScAC) at University of Toronto, enrolled in computer science concentration. Interest in LSM research and database applications.
 
 ##### June 2024
 Graduated from the University of Toronto with Honors Bachelor of Science with 3.91/4.0 GPA, studying Computer Science Specialist.
